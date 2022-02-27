@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The appearance or presence of the son of man</title>
+            <author>Eleanor, Lady, d. 1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81653</idno>
+            <idno type="STC">Wing D1972A</idno>
+            <idno type="STC">ESTC R231411</idno>
+            <idno type="EEBO-CITATION">99897293</idno>
+            <idno type="PROQUEST">99897293</idno>
+            <idno type="VID">170839</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81653)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170839)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2481:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The appearance or presence of the son of man</title>
+                  <author>Eleanor, Lady, d. 1652.</author>
+               </titleStmt>
+               <extent>Pp. 16+   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 16 has catchword "tences,".</note>
+                  <note>Place of publication from Wing (CD-ROM edition).</note>
+                  <note>Copy filmed at UMI microfilm Early English Books 1641-1700 reel 2481 lacks all after p. 16.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170839:1" rendition="simple:additions"/>
+            <p>THE <hi>APPEARANCE</hi> or <hi>PRESENCE</hi> OF THE Son of Man.</p>
+            <q>
+               <bibl>PSAL. 48.</bibl> 
+               <p>Thy right hand is full of righteouſ<g ref="char:EOLhyphen"/>neſs, Let Mount Sion rejoyce, and the daughters of Iuda be glad, becauſe of thy Judgements.</p>
+            </q>
+            <p>Printed in the Year, 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:170839:2"/>
+            <pb n="3" facs="tcp:170839:2" rendition="simple:additions"/>
+            <head>Even as I received of my Father, <hi>&amp;c.</hi> He that hath an ear let him hear.</head>
+            <p>ANd proceeding herewith in another place what he ſaith, <hi>who had not concealed it were it otherwiſe; That in his Fathers Houſe were many manſions:</hi> reſerv'd My<g ref="char:EOLhyphen"/>ſteries, all revealed not at once, as much to ſay, <unclear>M<gap reason="illegible" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> therefore left without excuſe: of the iron rod the A<gap reason="illegible" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> bid beware, reiterated ſo:</unclear> even <hi>He that hath an ear</hi> (to wit) on pain or peril of his head, <hi>&amp;c.</hi>
+            </p>
+            <p>Proclaiming no other then the Supreme Order or Authority, their unlimitted Commiſſion: The Spi<g ref="char:EOLhyphen"/>rit after abſent ſo long, how (as it were) <hi>ſtands knocking at the door:</hi>
+               <pb n="4" facs="tcp:170839:3"/>
+whereof theſe the ſum or ſubſtance of no inferior conſequence: A great<g ref="char:EOLhyphen"/>er then the Conquerer, Parliaments Prerogative not exempted: ſay<g ref="char:EOLhyphen"/>ing, <hi>To him that overcomes, and keeps my works unto the end, I will give power over the Nations, ſhall rule them with a rod of iron:</hi> His inſult<g ref="char:EOLhyphen"/>ing Enemies necks made his foot<g ref="char:EOLhyphen"/>ſtool.</p>
+            <p>
+               <hi>Who ſpeaks the word of the Lord, and done it is:</hi> Thoſe Heathen Po<g ref="char:EOLhyphen"/>tentates, but like to Potters brittle Veſſels broken in pieces, ſcattered, ſuddenly a Printers Preſs like. As the aforeſaid herewith conſenting ſhews expreſly <hi>(Pſalm) The Lord ſaid, Sit thou on my right hand, until I make thine Enemy,</hi> &amp;c. <hi>ſhall ſend the rod of thy power out of Sion, Be
+<pb n="5" facs="tcp:170839:3"/>
+thou ruler,</hi> &amp;c. And ſo much for this the prophetical everlaſting Order.</p>
+            <p>Whoſe Priſon-commons put into the reckoning, <hi>In the days of thy trouble</hi> (ſaying) <hi>ſhall the people offer thee free-will-offerings,</hi> &amp;c. Bread (to ſay) for the Lords ſake, and run<g ref="char:EOLhyphen"/>ing-water: <hi>Therefore ſhall he lift up thy head: The Lord thy keeper, hell gates ſhall not prevail againſt her:</hi> and clear truths as Noon day, not un<g ref="char:EOLhyphen"/>known come to paſs: Notwith<g ref="char:EOLhyphen"/>ſtanding by you, <hi>As for this Moſes we wot not what is become of him:</hi> with one conſent afraid all to come nigh him, terrified with them, be<g ref="char:EOLhyphen"/>cauſe of that luſture on his viſſage, <hi>&amp;c.</hi> The two renewed Tables coming down with in his hand:
+<pb n="6" facs="tcp:170839:4"/>
+Shadowed out directly in thoſe re<g ref="char:EOLhyphen"/>vived VVitneſſes two <hi>(Revel.</hi> 11.) when ſuppoſed to have heard no more news of them: Thoſe lights deem'd had utterly been extinguiſh<g ref="char:EOLhyphen"/>ed, like to the day of Iudgement, when thoſe rebels at the ſame time ſwept away in that cities earthquake: And ſacrificing all to your own in<g ref="char:EOLhyphen"/>ventions, how requiſite ſome real Demonſtration then extraordinary, ſuch unruly winds, where broken looſe Trees whoſe fruit withers: Not for ought good without ap<g ref="char:EOLhyphen"/>plyed means ſupernatural, not to be tamed or ordered: Even appointed this anointing faithful and true ſay<g ref="char:EOLhyphen"/>ing: Theſe from her overſhadow<g ref="char:EOLhyphen"/>ed with the ſame hand, as he <hi>Aarons</hi>
+               <pb n="7" facs="tcp:170839:4" rendition="simple:additions"/>
+god that was ordained, like Beams of Divinity participating, and Oyls odirefferous, an Elixer not of man or fleſh and blood: <hi>She whoſe Throne heaven, earth her footſtool from the un<g ref="char:EOLhyphen"/>created,</hi> ſaying, <hi>I am A. and O. firſt and laſt, both beginning and ending, by whom all things were done: Not without her any thing done or made; Trinity in Unity, of Manhood the head: Who of Death have the Keys and Hell: Then the Queen of the South a greater, born a greater not of Wo<g ref="char:EOLhyphen"/>men: Melea,</hi> by Interpretation, <hi>Queen of Peace,</hi> or She-councellor. And ſo much for this without con<g ref="char:EOLhyphen"/>tradiction, ſhe his Executor, <hi>Made like unto the Son of God,</hi> the ancient of days likeneſs: owner of that Ti<g ref="char:EOLhyphen"/>tle of Tythes, to whom the Patri<g ref="char:EOLhyphen"/>arch
+<pb n="8" facs="tcp:170839:5" rendition="simple:additions"/>
+offered a Tenth, from the ſlaughter being returned of thoſe Kings; preceding that Cities day of Iudgement prefiguring the final; for which interceding none might avail: <hi>Even the Lord upon her right hand, wounding even Kings in the day of his wrath; judging among the Hea<g ref="char:EOLhyphen"/>then: Heads of divers Countreys ſmiting aſſunder:</hi> ſuch headſhips of the Church, of ſuch no more.</p>
+            <p>And weak ſights moreover leſt offended overcome with light, for quallifying the ſaid Deity, or to mo<g ref="char:EOLhyphen"/>derate the ſame. <hi>Imprimis,</hi> firſt and formoſt ſaying I am <hi>A.</hi> and <hi>O. alias, Da:</hi> and <hi>Do:</hi> by her firſt and laſt marriage ſo ſubſcribes, that begin<g ref="char:EOLhyphen"/>ning and ending <hi>Dowger,</hi> &amp;c. in the next thus. <hi>Item,</hi> Daughter of
+<pb n="9" facs="tcp:170839:5" rendition="simple:additions"/>
+               <hi>Audleigh,</hi> or <hi>Oldfield,</hi> in the <hi>Saxon</hi> Tongue, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> no created Peerſhip: a <hi>Saxon</hi> Baron afore the Conqueſt, As unto this day, preferring the act of time Antiquity, before Ti<g ref="char:EOLhyphen"/>tles ſubject to be reverſd; and ſo far for that beginning and ending, of Kings and Houſe of Lords.</p>
+            <p>Alſo Baron <hi>Touchet</hi> of <hi>France, Caſtlehaven</hi> in <hi>Ireland, Douglas</hi> of <hi>Scotland:</hi> Honors three, conſiſting in a fourth, <hi>Audeley:</hi> Of thoſe Na<g ref="char:EOLhyphen"/>tions no obſcure Denominations, which late ruined old houſe of this Kingdoms fall a forerunner, <hi>Je Le Tien</hi> its Motto, <hi>Hold faſt till I come (Rev. &amp;c.)</hi> a derivative therefrom: like unto the Tabernacles work to a loop, and holy Garments or Coats adorned with ſeveral pre<g ref="char:EOLhyphen"/>cious
+<pb n="10" facs="tcp:170839:6" rendition="simple:additions"/>
+Stones, following that patern in their true fiery colours diſplay'd, conſuming droſs a Refiners fire, like of whoſe diſcent, Genealo<g ref="char:EOLhyphen"/>gy of his noble Prophets no novel<g ref="char:EOLhyphen"/>ty to be kept, ſuffices ſo much in refference to the Morning-Star, uſher of the day: That honor re<g ref="char:EOLhyphen"/>ceived from him, giving the ſeven Stars or Plannets: The Creations coat, arms born: By vertue here<g ref="char:EOLhyphen"/>of, <hi>(ver.) He that keeps my works unto the end, as I received of my Fa<g ref="char:EOLhyphen"/>ther,</hi> &amp;c. whom invincible Pro<g ref="char:EOLhyphen"/>phets, his followers with whom no ſhrinking or back-drawing, till they have made it good: ſo much for their Charge.</p>
+            <p>Where laſtly, by conſequence, Heaven how comes to be her
+<pb n="11" facs="tcp:170839:6" rendition="simple:additions"/>
+Ioynture, place, being no unneceſ<g ref="char:EOLhyphen"/>ſary circumſtance thus going on: Thou <hi>Bethlehem</hi> or <hi>Berkshire,</hi> not the leaſt, firſt of Counties: Even ſhewing the word of the moſt high God, at <hi>Englefield</hi> Mannor-Houſe: That Morning-Salutation for ever bleſt, where that voyce came unto her, ſpeaking down as through a Trumpet, theſe words.</p>
+            <p>Saying, <hi>There is Nineteen years and half to the Judgement day, And you as the meek Virgin.</hi>
+            </p>
+            <p>Where farther, by way of Priority thus walking about <hi>Si<g ref="char:EOLhyphen"/>on,</hi> counting her Towers, thoſe Right-hand years, in the firſt of his Reign, <hi>A<hi rend="sup">o</hi>
+               </hi> 1625. firſt of his name of theſe Dominions, moneth
+<pb n="12" facs="tcp:170839:7" rendition="simple:additions"/>
+               <hi>July,</hi> 28. ſo after the firſt <hi>Roman</hi> Emperor called: He ſlain, <hi>&amp;c.</hi> ſhewing not to vulgar apprehenſi<g ref="char:EOLhyphen"/>ons difficult, in this Coſmographical Table of New Heaven and Earth: How under the Gallery of the a<g ref="char:EOLhyphen"/>foreſaid <hi>Englefield-</hi>Houſe, where a<g ref="char:EOLhyphen"/>wakened with that unexpected Alarm in Engliſh: The Weſtern Road lies a Thorowfare under a high Arch for Travellers: Alſo a place called Hell of old, a Mile or two diſtant therefrom, full of pits within the royalties: The Harbor of ſuch decrepid with age, and their Aſſociates blinde and halt, craving relief nigh the Highway-ſide, no Critick obſervation in the County of <hi>HARTFORD:</hi> whoſe Ioynture the Manor of
+<pb n="13" facs="tcp:170839:7" rendition="simple:additions"/>
+               <hi>Pyreton</hi> (fire in Greek) conſiſting of a Tythe or Impropriation, ſhews <hi>A<hi rend="sup">o</hi>
+               </hi> 48. the ſame year of that Kings ſlaughter or execution: ſhe reſtored <hi>Trinity</hi> Term put into Poſſeſsion of the ſaid Tythe: By the Sheriff a Writ <hi>Moveas Manus,</hi> by ver<g ref="char:EOLhyphen"/>tue of it, to that Patriarch, ſome<g ref="char:EOLhyphen"/>time appertaining Abbot of St. <hi>Al<g ref="char:EOLhyphen"/>bons:</hi> ſold away <hi>A<hi rend="sup">o</hi>
+               </hi> 33. in the days of her durance, not difficult a little to regain it; the oftner Argued, the more Ambiguous, until by the Ba<g ref="char:EOLhyphen"/>rons of Exchequer, in writing the ſame appointed to be put down; ſo Intricate, <hi>&amp;c.</hi> Of which ho<g ref="char:EOLhyphen"/>ly Appurtenances Conſecrated; things too exactly which cannot be obſerved, <hi>A<hi rend="sup">o</hi>
+               </hi> 1625. Since when, not any thing acted or come to paſs:
+<pb n="14" facs="tcp:170839:8" rendition="simple:additions"/>
+From <hi>Germanies</hi> Deſolations, <hi>Ro<g ref="char:EOLhyphen"/>chels</hi> Siege, until <hi>Irelands</hi> Blow, and what ſince followed; like one waves purſuing another, forerunners of the moments great change and general Iudgement, when perſons or Sex, without ſuch reſpects: even which Paſſages not unforeſhewed by her hand, together with the afore<g ref="char:EOLhyphen"/>ſaid Golden Number of <hi>Nineteen years and a half to A<hi rend="sup">o</hi>
+               </hi> 1644. extending the <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> B<g ref="char:punc">▪</g> his <hi>January</hi> Account not onely, but the late <hi>Charls</hi> when became a priſoner, <hi>Nazeby,</hi> &amp;c. That day of Iudgement, A<hi rend="sup">o</hi> 45. current; afterward taſting of the ſaid fatal Moneths cold Cup: as <hi>Buckingbams</hi> Auguſt Moneth, him foreſhewed, whereupon (boad<g ref="char:EOLhyphen"/>ing to that Nation a laſh) ſhe wan
+<pb n="15" facs="tcp:170839:8" rendition="simple:additions"/>
+that wager to his ſmart: The typi<g ref="char:EOLhyphen"/>fying Breeches of the <hi>Sotch</hi> man her Husband, againſt ſuch wimzes of hers who laid them, as he then term<g ref="char:EOLhyphen"/>ed it, paſsing not ſcotfree, <hi>&amp;c.</hi>
+            </p>
+            <p>And theſe with other like, a world not able to contain them: alſo this for another, 1647. by the ſame to<g ref="char:EOLhyphen"/>ken that Night a bold Star facing the Moon (April. 2.) paſſed through her Body, at which time ſerved that Writ, bearing dare the ſecond of April: <hi>I ſend thee to a rebellious houſe, &amp;c. Ezek.</hi> 2. and <hi>cap.</hi> 12. ſhe prefixing <hi>Penticoſt</hi> enſuing, as when ſuch a mighty ruſhing wind, to beware them like as when they all aſſembled, <hi>&amp;c.</hi> witneſs <hi>South<g ref="char:EOLhyphen"/>wark:</hi> That Mornings gheſts un<g ref="char:EOLhyphen"/>expected accompanied with ſuch
+<pb n="16" facs="tcp:170839:9" rendition="simple:additions"/>
+a Thunder-clap from above, and darkneſs: To the upper Houſe a warning piece their diſcharge.</p>
+            <p>And laſtly, a ſecond like unto it, witneſs, 1650 <hi>July Jubile,</hi> that judge<g ref="char:EOLhyphen"/>ment by fire in <hi>Holborn,</hi> and other parts of the City: Inſtantly in the ſame week ſhe caſt out of her law<g ref="char:EOLhyphen"/>ful poſſeſsion of <hi>Englefield,</hi> by that Counties Sheriff, being by due courſe of Law put into the ſame: But in the VVhitſon-week, the like unheard without being impleaded: for the ſame Sheriff with piſtols and VVeapons to break up doors, done as he ſaid by a mighty power: All he had to ſay for himſelf, authorized by Committees Order, for ſwallowing a VVidows Eſtate up after that maner: And faſting, under pre<g ref="char:EOLhyphen"/>tences,</p>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
